@@ -1,3 +1,4 @@
 boto3
+botocore
 openai
 slack_sdk
